@@ -204,9 +204,10 @@ streamlit run app.py
 
 The Netflix Content Intelligence Dashboard is deployed on **Streamlit Community Cloud** and is available here:
 
-**Streamlit Dashboard:** https://netflix-content-analysis-dashboard-3kwsyimezin87s9pmkzxbi.streamlit.app/
-```
-
+**Streamlit Dashboard:** 
+ 
+https://netflix-content-analysis-dashboard-3kwsyimezin87s9pmkzxbi.streamlit.app/
+ 
 
 ## 🛠️ Tech Stack
 
