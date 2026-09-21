@@ -208,8 +208,6 @@ The Netflix Content Intelligence Dashboard is deployed on **Streamlit Community 
 ```
 
 
----
-
 ## 🛠️ Tech Stack
 
 | Library | Purpose |
