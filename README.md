@@ -200,12 +200,11 @@ streamlit run app.py
 
 ---
 
-## ☁️ Deployment
+## 🌐 Live Dashboard
 
-### streamlit
-```bash
-# https://netflix-content-analysis-dashboard-3kwsyimezin87s9pmkzxbi.streamlit.app/nt:
-web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
+The Netflix Content Intelligence Dashboard is deployed on **Streamlit Community Cloud** and is available here:
+
+**Streamlit Dashboard:** https://netflix-content-analysis-dashboard-3kwsyimezin87s9pmkzxbi.streamlit.app/
 ```
 
 
