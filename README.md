@@ -19,6 +19,8 @@ This dashboard transforms the raw `netflix_titles.csv` into a fully interactive,
 ---
 ## Problem Statement
 
+Netflix hosts thousands of movies and TV shows across multiple countries, genres, ratings, and release years. Analyzing this large catalog manually is difficult and does not provide clear business insights for content strategy.
+
 This project builds a Netflix Content Intelligence Dashboard that transforms the raw Kaggle Netflix dataset into an interactive Business Intelligence solution. The dashboard helps identify content distribution patterns, geographical trends, genre popularity, release trends, and predictive insights to support data-driven content acquisition and recommendation strategies.
 
 
