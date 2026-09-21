@@ -190,23 +190,17 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will open at `http://localhost:8501`.
 
 ---
 
 ## ☁️ Deployment
 
-### Railway
+### streamlit
 ```bash
-# Procfile content:
+# https://netflix-content-analysis-dashboard-3kwsyimezin87s9pmkzxbi.streamlit.app/nt:
 web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 ```
 
-### Streamlit Community Cloud
-1. Push to a public GitHub repository
-2. Connect at [share.streamlit.io](https://share.streamlit.io)
-3. Set `app.py` as the main file
-4. Ensure `netflix_titles.csv` is committed to the repo
 
 ---
 
@@ -222,6 +216,8 @@ web: streamlit run app.py --server.port=$PORT --server.address=0.0.0.0
 | `matplotlib` | Confusion matrix rendering |
 
 ---
+## Presented by
+## Karishma Jain
 
 ## 📄 License
 
